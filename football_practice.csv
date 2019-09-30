@@ -1,0 +1,287 @@
+"","who_wins","freq"
+"1","0",9431
+"2","Abkhazia",3
+"3","Afghanistan",13
+"4","Åland Islands",7
+"5","Albania",21
+"6","Alderney",3
+"7","Algeria",52
+"8","American Samoa",1
+"9","Andalusia",1
+"10","Angola",38
+"11","Anguilla",1
+"12","Antigua and Barbuda",13
+"13","Arameans Suryoye",4
+"14","Argentina",164
+"15","Armenia",19
+"16","Artsakh",2
+"17","Aruba",4
+"18","Asturias",1
+"19","Australia",89
+"20","Austria",110
+"21","Azerbaijan",14
+"22","Bahamas",3
+"23","Bahrain",47
+"24","Bangladesh",15
+"25","Barbados",26
+"26","Basque Country",16
+"27","Belarus",34
+"28","Belgium",113
+"29","Belize",4
+"30","Benin",14
+"31","Bermuda",15
+"32","Bhutan",2
+"33","Bolivia",19
+"34","Bonaire",4
+"35","Bosnia and Herzegovina",39
+"36","Botswana",19
+"37","Brazil",222
+"38","British Virgin Islands",6
+"39","Brittany",1
+"40","Brunei",2
+"41","Bulgaria",102
+"42","Burkina Faso",36
+"43","Burma",32
+"44","Burundi",22
+"45","Cambodia",7
+"46","Cameroon",83
+"47","Canada",53
+"48","Cape Verde",16
+"49","Cascadia",2
+"50","Catalonia",1
+"51","Cayman Islands",2
+"52","Central African Republic",1
+"53","Chad",8
+"54","Chagos Islands",1
+"55","Chameria",1
+"56","Chile",83
+"57","China PR",91
+"58","Chinese Taipei",26
+"59","Colombia",84
+"60","Comoros",3
+"61","Congo",41
+"62","Cook Islands",3
+"63","Corsica",1
+"64","Costa Rica",77
+"65","County of Nice",4
+"66","Crimea",3
+"67","Croatia",73
+"68","Cuba",53
+"69","Curacao",1
+"70","Curaçao",45
+"71","Cyprus",13
+"72","Czech Republic",63
+"73","Czechoslovakia",83
+"74","Denmark",138
+"75","Dominica",12
+"76","Dominican Republic",13
+"77","DR Congo",73
+"78","East Timor",1
+"79","Ecuador",50
+"80","Egypt",71
+"81","El Salvador",38
+"82","Ellan Vannin",2
+"83","England",6198
+"84","Equatorial Guinea",2
+"85","Eritrea",4
+"86","Estonia",45
+"87","Eswatini",17
+"88","Ethiopia",32
+"89","Falkland Islands",4
+"90","Faroe Islands",11
+"91","Felvidék",2
+"92","Fiji",19
+"93","Finland",82
+"94","France",135
+"95","French Guiana",18
+"96","Frøya",3
+"97","Gabon",40
+"98","Galicia",1
+"99","Gambia",10
+"100","Georgia",25
+"101","German DR",63
+"102","Germany",236
+"103","Ghana",110
+"104","Gibraltar",9
+"105","Gotland",2
+"106","Greece",76
+"107","Greenland",12
+"108","Grenada",26
+"109","Guadeloupe",34
+"110","Guam",6
+"111","Guatemala",44
+"112","Guernsey",15
+"113","Guinea",57
+"114","Guinea-Bissau",8
+"115","Guyana",27
+"116","Haiti",78
+"117","Hitra",1
+"118","Honduras",67
+"119","Hong Kong",36
+"120","Hungary",178
+"121","Iceland",56
+"122","India",48
+"123","Indonesia",46
+"124","Iran",94
+"125","Iraq",90
+"126","Iraqi Kurdistan",5
+"127","Isle of Man",15
+"128","Isle of Wight",7
+"129","Israel",49
+"130","Italy",143
+"131","Ivory Coast",107
+"132","Jamaica",76
+"133","Japan",107
+"134","Jersey",17
+"135","Jordan",44
+"136","Kabylia",1
+"137","Kárpátalja",2
+"138","Kazakhstan",15
+"139","Kenya",56
+"140","Kernow",3
+"141","Kosovo",4
+"142","Kuwait",80
+"143","Kyrgyzstan",20
+"144","Laos",7
+"145","Latvia",43
+"146","Lebanon",29
+"147","Lesotho",16
+"148","Liberia",12
+"149","Libya",23
+"150","Liechtenstein",5
+"151","Lithuania",46
+"152","Luxembourg",9
+"153","Macau",5
+"154","Madagascar",30
+"155","Malawi",52
+"156","Malaysia",63
+"157","Maldives",13
+"158","Mali",76
+"159","Malta",12
+"160","Martinique",52
+"161","Matabeleland",1
+"162","Mauritania",12
+"163","Mauritius",31
+"164","Mayotte",2
+"165","Menorca",2
+"166","Mexico",134
+"167","Moldova",23
+"168","Monaco",2
+"169","Mongolia",6
+"170","Montenegro",10
+"171","Montserrat",2
+"172","Morocco",77
+"173","Mozambique",32
+"174","Myanmar",2
+"175","Namibia",17
+"176","Nepal",8
+"177","Netherlands",158
+"178","New Caledonia",37
+"179","New Zealand",67
+"180","Nicaragua",8
+"181","Niger",11
+"182","Nigeria",96
+"183","North Korea",62
+"184","North Macedonia",23
+"185","North Vietnam",4
+"186","Northern Cyprus",6
+"187","Northern Ireland",58
+"188","Northern Mariana Islands",1
+"189","Norway",129
+"190","Occitania",4
+"191","Oman",46
+"192","Orkney",1
+"193","Padania",9
+"194","Pakistan",17
+"195","Palestine",23
+"196","Panama",45
+"197","Panjab",4
+"198","Papua New Guinea",16
+"199","Paraguay",124
+"200","Peru",73
+"201","Philippines",19
+"202","Poland",151
+"203","Portugal",108
+"204","Provence",2
+"205","Puerto Rico",8
+"206","Qatar",65
+"207","Republic of Ireland",75
+"208","Réunion",15
+"209","Rhodes",3
+"210","Romani people",1
+"211","Romania",116
+"212","Russia",170
+"213","Rwanda",25
+"214","Saare County",1
+"215","Saarland",1
+"216","Saint Kitts and Nevis",20
+"217","Saint Lucia",26
+"218","Saint Martin",4
+"219","Saint Vincent and the Grenadines",28
+"220","Samoa",2
+"221","Sápmi",2
+"222","Saudi Arabia",87
+"223","Scotland",12037
+"224","Senegal",102
+"225","Serbia",64
+"226","Seychelles",2
+"227","Shetland",6
+"228","Sierra Leone",20
+"229","Singapore",53
+"230","Sint Maarten",3
+"231","Slovakia",54
+"232","Slovenia",35
+"233","Solomon Islands",29
+"234","Somalia",4
+"235","Somaliland",1
+"236","South Africa",62
+"237","South Korea",176
+"238","South Ossetia",3
+"239","South Sudan",1
+"240","Spain",160
+"241","Sri Lanka",12
+"242","Sudan",53
+"243","Suriname",60
+"244","Surrey",1
+"245","Sweden",213
+"246","Switzerland",103
+"247","Syria",71
+"248","Székely Land",2
+"249","Tahiti",56
+"250","Tajikistan",25
+"251","Tamil Eelam",3
+"252","Tanzania",44
+"253","Thailand",69
+"254","Togo",42
+"255","Tonga",5
+"256","Trinidad and Tobago",118
+"257","Tunisia",76
+"258","Turkey",95
+"259","Turkmenistan",21
+"260","Turks and Caicos Islands",2
+"261","Tuvalu",1
+"262","Two Sicilies",1
+"263","U.S. Virgin Islands",3
+"264","Uganda",98
+"265","Ukraine",49
+"266","United Arab Emirates",63
+"267","United States",73
+"268","Uruguay",190
+"269","Uzbekistan",48
+"270","Vanuatu",35
+"271","Venezuela",38
+"272","Vietnam",26
+"273","Vietnam Republic",38
+"274","Wales",2127
+"275","Wallis Islands and Futuna",3
+"276","Western Armenia",4
+"277","Western Australia",9
+"278","Western Isles",5
+"279","Yemen",13
+"280","Yemen DPR",4
+"281","Ynys Môn",14
+"282","Yorkshire",1
+"283","Yugoslavia",115
+"284","Zambia",160
+"285","Zanzibar",24
+"286","Zimbabwe",87
